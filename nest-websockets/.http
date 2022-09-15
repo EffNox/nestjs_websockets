@@ -1,0 +1,10 @@
+# @API=http://localhost:9849/api
+
+
+###~###~###~###~###~###
+GET {{API}}/products
+
+###~###~###~###~###~###
+GET {{URL}}/socket.io/socket.io.js
+
+
